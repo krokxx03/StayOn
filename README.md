@@ -12,6 +12,10 @@
 
 Unlike basic jiggler scripts that move your mouse wildly, **StayOn** uses **microscopic displacement with instant anchor-return** and **real-time physical takeover detection** — keeping your cursor virtually still while registering legitimate input events.
 
+<img width="451" height="583" alt="Screenshot 2026-09-13 at 01 14 33" src="https://github.com/user-attachments/assets/01952745-935b-491c-87ea-018c4686b27c" />
+
+
+
 ---
 
 ## 🌟 Key Features
